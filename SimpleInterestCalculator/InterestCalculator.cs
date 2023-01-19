@@ -39,7 +39,7 @@ namespace SimpleInterestCalculator
             }
             else
             {
-                MessageBox.Show("Please enter the value.");
+                MessageBox.Show("All fields are required.");
             }
         }
 
